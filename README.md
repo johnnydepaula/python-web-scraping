@@ -14,10 +14,10 @@ To set up the project environment, install the required libraries using pip:
 pip install pandas requests beautifulsoup4
 ```
 ## Usage
-To run the scraper, execute the scraper.py script:
+To run the scraper, execute the main.py script:
 
 ```
-python scraper.py
+python3 main.py
 ```
 
 ## Features
